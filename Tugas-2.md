@@ -28,6 +28,6 @@ Nama : Ali Badr Adeen NPM : 20081010227 Kelas : D081
 
 ---
 
-## Kesimpulan
+# Kesimpulan
 
 Kesimpulannya adalah, perbedaan utama antara metode dan metodologi dalam sebuah paper adalah bahwa metode mengacu pada langkah-langkah konkret yang diterapkan dalam penelitian, sementara metodologi adalah panduan umum yang merinci pendekatan dan filosofi yang mendasari penelitian tersebut. Metodologi membantu meletakkan dasar bagi pemilihan dan penerapan metode tertentu.
