@@ -1,2 +1,5 @@
-# Riset-Informatika
-Ali Badr Adeen - 20081010227
+# Biodata
+
+- Nama  : Ali Badr Adeen
+- NPM   : 20081010227
+- Kelas : Riset Informatika D081
