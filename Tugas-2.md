@@ -14,8 +14,6 @@ Nama : Ali Badr Adeen NPM : 20081010227 Kelas : D081
 
 ---
 
----
-
 # Penjelasan
 
 ## Metode
@@ -27,8 +25,6 @@ Nama : Ali Badr Adeen NPM : 20081010227 Kelas : D081
 
 - Metodologi adalah kerangka atau pendekatan umum yang digunakan dalam penelitian. Ini mencakup pemikiran filosofis di balik desain penelitian, pendekatan yang digunakan dalam mengumpulkan dan menganalisis data, serta asumsi yang mendasari penelitian.
 - Metodologi membantu menjelaskan mengapa penelitian dilakukan dengan cara tertentu dan bagaimana keputusan diambil dalam desain penelitian. Ini adalah landasan yang mendasari metode.
-
----
 
 ---
 
